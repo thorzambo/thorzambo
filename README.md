@@ -11,9 +11,10 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px"> Creator from France
 
-🎓 Presently in high school studying mathematics and computer science.  
-🚀 I'm currently learning **Cryptocurrencies**, **NFTs** and **Metaverse**.  
-📫 Contact me on and look my content on:
+🎓 Currently Studying Economics, ending Bachelor's in the management stream. And why coding? 
+🎯 My main interests are into automation. Cause of that, the chain connects to frontends, backends, and anything related. 
+🧩 Discovered my real passion for coding after tasting almost anything.
+
 
 <a href="https://www.reddit.com/user/Maksyme">
     <img src="https://user-images.githubusercontent.com/91475935/168445301-dedc1330-1efd-4778-a758-3a76cf4c846e.svg" height="40px" />
