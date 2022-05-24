@@ -9,7 +9,7 @@
 <!-- <img align="right" width="35%" src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" /> -->
 
 
-## <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" width="20px"> Soon Developer - CH/IT
+## <img src="https://media.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif" width="20px"> Soon Developer - CH/IT
 
 🎓 Currently Studying Economics, ending Bachelor's in the management stream. And why coding?<br/>
 🎯 My main interests are into automation. Cause of that, the chain connects to frontends, backends, and anything related.<br/>
