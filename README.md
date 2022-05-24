@@ -3,17 +3,18 @@
 
 <div align="center">
 
-# I'm Leo <br/>{<br/> aka (Thor Zambo); <br/>}
+# I'm Leo <br/>{<br/> aka ThorZambo; <br/>}
 <img src="https://imgur.com/KhLCNlZ.png" height="150px" />
 
 <!-- <img align="right" width="35%" src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" /> -->
 
 
-## <img src="https://media.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif" width="20px"> Soon Developer - CH/IT
+## <img src="https://media.giphy.com/media/xThuWu82QD3pj4wvEQ/giphy.gif" width="20px"> Soon Developer - CH - IT
 
 🎓 Currently Studying Economics, ending Bachelor's in the management stream. And why coding?<br/>
 🎯 My main interests are into automation. Cause of that, the chain connects to frontends, backends, and anything related.<br/>
 🧩 Discovered my real passion for coding after tasting almost anything.<br/>
+🪙 Currenlty Focussing on Blockchain.<br/>
 
 
 <a href="https://www.reddit.com/user/Maksyme">
@@ -35,6 +36,8 @@
 <a href="https://fr.fiverr.com/maximedrn">
     <img src="https://user-images.githubusercontent.com/91475935/169694667-68824ed9-10a3-46ee-9fc1-23ec91496121.png" height="40px" />
 </a>
+
+## Human Lenguages:
 
 
 ## Languages and tools used:
