@@ -4,7 +4,7 @@
 <div align="center">
 
 # I'm Leo <br/> aka Thor Zambo
-<img src="https://imgur.com/KhLCNlZ.png"/>
+<img src="https://imgur.com/KhLCNlZ.png" height="80px" />/>
 
 <!-- <img align="right" width="35%" src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" /> -->
 
