@@ -5,7 +5,7 @@ work in progress
 <div align="center">
 <link rel="stylesheet" href="styles/style.css">
 
-# **Hi! I'm Leo** <br/> { aka ThorZambo } <br/>
+# **Hi! I'm Leo** <br/> { aka ThorZambo }
 
 <img src="https://imgur.com/KhLCNlZ.png" height="150px" />
 
@@ -13,8 +13,7 @@ work in progress
 
 ## **Soon Developer - CH - IT**
 
-<img src="https://raw.githubusercontent.com/Codelessly/FlutterLoadingGIFs/master/packages/cupertino_activity_indicator.gif" width="40px"> 
-
+<img src="https://raw.githubusercontent.com/Codelessly/FlutterLoadingGIFs/master/packages/cupertino_activity_indicator.gif" width="40px">
 
 <br/>
 🎓 Currently Studying Economics, ending Bachelor's in the management stream. Why coding?<br/>
@@ -38,17 +37,17 @@ work in progress
     <img src="https://simpleicons.org/icons/linkedin.svg" height="40px" style="filter: invert(1);">
 </a>
 
-<p><br/></p>
+<p>____________________________________________</p>
 
 ## Human Languages
+
 <br/>
 
 <img src="https://cdn1.iconfinder.com/data/icons/european-country-flags/83/italy-512.png" height="40px">
 <img src="https://cdn1.iconfinder.com/data/icons/flags-of-the-world-2/128/england-circle-128.png" height="40px">
 <img src="https://cdn1.iconfinder.com/data/icons/european-country-flags/83/germany-512.png" height="40px">
 
-<p></p>
-<br/>
+<p>_________________________________________________________________________</p>
 
 ## Languages and tools used
 
@@ -56,14 +55,16 @@ work in progress
 
 ![](https://skillicons.dev/icons?i=bots,vscode,bash,git,linux,latex,nginx&theme=dark)
 
-<p></p>
+<p>_________________________________________________________________________</p>
 
 ## Languages and tools working on & To Do List
+
 ![](https://skillicons.dev/icons?i=mysql,go,js,nodejs,react,cs,cpp&theme=dark)
 
 ![](https://skillicons.dev/icons?i=docker,flask,django,ai,solidity,swift,ts&theme=dark)
 
-<p></p>
+<p>_________________________________________________________________________</p>
+
 
 ## My Github statistics
 
