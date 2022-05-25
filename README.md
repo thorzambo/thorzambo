@@ -5,12 +5,7 @@
 
 <div align="center">
 
-<style>
-.invert {
-  -webkit-filter: invert(1);
-   filter: invert(1);
-}
-</style>
+
 
 # I'm Leo <br/>{<br/> aka ThorZambo; <br/>}
 <img src="https://imgur.com/KhLCNlZ.png" height="150px" />
@@ -33,7 +28,7 @@
 <a href="https://twitter.com/thor_zambo">
     <img src="img/twitter.svg" height="40px" class="invert"/>
     <style>
-        .invert {
+        img {
             -webkit-filter: invert(1);
             filter: invert(1);
         }
