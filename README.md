@@ -24,7 +24,7 @@
 </a>
   
 <a href="https://twitter.com/thor_zambo">
-    <img src="https://simpleicons.org/icons/twitter.svg" height="40px" class="invert"\>
+    <img src="https://simpleicons.org/icons/twitter.svg" height="40px">
 </a>
     
 <a href="https://fr.fiverr.com/maximedrn">
