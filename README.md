@@ -101,8 +101,8 @@ public class Me {
         System.out.print("Not even the chance to choose. ");
         
         Me me = new Me("I don't even care about this field.", 
-                "I'm so fully committed,", 
-                        "the Future does not scare me");
+                         "I'm so fully committed,", 
+                            "the Future does not scare me");
         
         System.out.println(me.passion + " is my Passion.");
         System.out.print(me.motivation + " is the reason why I can anything BUT " + me.setScope(me.motivation) + ".");
