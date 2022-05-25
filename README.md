@@ -21,6 +21,7 @@ work in progress
 🧩 Discovered my real passion for coding after tasting almost anything.<br/>
 🪙 Currenlty fascinated by Blockchain.<br/>
 <br/>
+
 <a href="https://t.me/thorzambo">
     <img src="https://simpleicons.org/icons/telegram.svg" height="40px" style="filter: invert(1);">
 </a>
