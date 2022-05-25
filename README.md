@@ -1,6 +1,6 @@
 # thorzambo
 
-work in progress. self teaching.
+work in progress.
 
 <div align="center">
 <link rel="stylesheet" href="styles/style.css">
@@ -74,3 +74,39 @@ work in progress. self teaching.
 [![thorzambo's GitHub stats](https://github-readme-stats.vercel.app/api?username=thorzambo&count_private=true&show_icons=true&theme=dark)](https://github.com/thorzambo/thorzambo)
 
 </div>
+
+```
+public class Me {
+    
+    final String result = "Succeed";
+    final String passion = "Coding";
+    final String motivation = "Ambition";
+
+    Me(String result, String passion, String z) {
+        /**
+         * Does not metter how long it will take 
+         * (even on a Java program)
+         */
+    }
+
+    public String setScope(String result) {
+        while (result == "Succeed") {
+            return result;
+        }
+        // this.scope = "Succeeded"; is not a variable
+        return "Fail";
+    }
+
+    public static void main(String[] args) {
+
+        System.out.print("Not even the chance to choose. ");
+        
+        Me me = new Me("I don't even care about this field.", 
+                "I'm so fully committed,", 
+                        "the Future does not scare me");
+        
+        System.out.println(me.passion + " is my Passion.");
+        System.out.print(me.motivation + " is the reason why I can anything BUT " + me.setScope(me.motivation) + ".");
+    }
+}
+```
