@@ -84,8 +84,8 @@ public class Me {
 
     Me(String result, String passion, String z) {
         /**
-         * Does not metter how long it will take 
-         * (even on a Java program)
+         * Does not metter how long it takes 
+         * (even by writing it on Java)
          */
     }
 
