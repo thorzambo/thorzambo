@@ -22,8 +22,8 @@
 </a>
   
 <a href="https://twitter.com/thor_zambo">
-     <svg class="img/twitter.svg" height="40" fill="white">
-                  <use xlink:href="#table"> </use> </svg> </a>
+    <img src="img/twitter.svg" height="40px" fill="white" />
+</a>
     
 <a href="https://fr.fiverr.com/maximedrn">
     <img src="https://user-images.githubusercontent.com/91475935/169694667-68824ed9-10a3-46ee-9fc1-23ec91496121.png" height="40px" />
