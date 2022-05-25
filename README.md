@@ -4,7 +4,7 @@
  
 
 <div align="center">
-
+<link rel="stylesheet" href="styles/style.css">
 
 
 # I'm Leo <br/>{<br/> aka ThorZambo; <br/>}
@@ -26,12 +26,7 @@
 </a>
   
 <a href="https://twitter.com/thor_zambo">
-    <img src="img/twitter.svg" height="40px" style="invert_effect"\>
-        <style>
-        .invert_effect {
-            filter: invert(100%);
-        }
-    </style>
+    <img src="img/twitter.svg" height="40px" class="invert"\>
 </a>
     
 <a href="https://fr.fiverr.com/maximedrn">
