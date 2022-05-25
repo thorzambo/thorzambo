@@ -22,11 +22,16 @@
 
   
 <a href="https://t.me/thorzambo">
-    <img src="https://user-images.githubusercontent.com/91475935/168445311-109ba4e0-2ef4-4cd7-9ac4-7ed3af534e91.svg" height="40px" filter: invert(1);>
+    <img src="https://user-images.githubusercontent.com/91475935/168445311-109ba4e0-2ef4-4cd7-9ac4-7ed3af534e91.svg" height="40px">
 </a>
   
 <a href="https://twitter.com/thor_zambo">
-    <img src="img/twitter.svg" height="40px" style="/>
+    <img src="img/twitter.svg" height="40px" style="invert_effect"\>
+        <style>
+        .invert_effect {
+            filter: invert(100%);
+        }
+    </style>
 </a>
     
 <a href="https://fr.fiverr.com/maximedrn">
