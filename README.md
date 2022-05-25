@@ -81,7 +81,7 @@ public class Me {
     final String passion = "Coding";
     final String motivation = "Ambition";
 
-    Me(String result, String passion, String z) {
+    Me(String result, String passion, String motivation) {
         /**
          * Does not metter how long it takes 
          * (even by writing it on Java)
