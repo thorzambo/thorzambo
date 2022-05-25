@@ -37,26 +37,37 @@ work in progress
 <a href="https://www.linkedin.com/in/leonardo-zambaiti">
     <img src="https://simpleicons.org/icons/linkedin.svg" height="40px" style="filter: invert(1);">
 </a>
-<br/>
+
+<p><br/></p>
 
 ## Human Languages
+<br/>
+
 <img src="https://cdn1.iconfinder.com/data/icons/european-country-flags/83/italy-512.png" height="40px">
 <img src="https://cdn1.iconfinder.com/data/icons/flags-of-the-world-2/128/england-circle-128.png" height="40px">
 <img src="https://cdn1.iconfinder.com/data/icons/european-country-flags/83/germany-512.png" height="40px">
 
+<p></p>
+<br/>
 
 ## Languages and tools used
 
 ![](https://skillicons.dev/icons?i=python,java,c,html,css,discord,mongodb&theme=dark)
 
-![](https://skillicons.dev/icons?i=mysql,vscode,bash,git,linux,&theme=dark)
+![](https://skillicons.dev/icons?i=bots,vscode,bash,git,linux,latex,nginx&theme=dark)
 
+<p></p>
 
-## Languages and tools on the To Do List
+## Languages and tools working on & To Do List
 ![](https://skillicons.dev/icons?i=mysql,go,js,nodejs,react,cs,cpp&theme=dark)
 
+![](https://skillicons.dev/icons?i=docker,flask,django,ai,solidity,swift,ts&theme=dark)
+
+<p></p>
 
 ## My Github statistics
+
+<p></p>
 
 <img align="" height="115.5px" src="https://github-readme-stats.vercel.app/api?username=maximedrn&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&theme=dracula" /> <img align="" height="115.5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maximedrn&hide_title=true&hide_border=true&layout=compact&hide=html&theme=dracula" />
 
