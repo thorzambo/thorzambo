@@ -1,6 +1,4 @@
 # thorzambo
- description
-
  
 
 <div align="center">
@@ -26,7 +24,7 @@
 </a>
   
 <a href="https://twitter.com/thor_zambo">
-    <img src="img/twitter.svg" height="40px" style="filter: invert(1);"\>
+    <img src="img/twitter.svg" height="40px" class="invert"\>
 </a>
     
 <a href="https://fr.fiverr.com/maximedrn">
