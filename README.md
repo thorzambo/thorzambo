@@ -31,7 +31,13 @@
 </a>
   
 <a href="https://twitter.com/thor_zambo">
-    <img src="img/twitter.svg" height="40px" class="invert"/> />
+    <img src="img/twitter.svg" height="40px" class="invert"/>
+    <style>
+        .invert {
+            -webkit-filter: invert(1);
+            filter: invert(1);
+        }
+    </style>
 </a>
     
 <a href="https://fr.fiverr.com/maximedrn">
