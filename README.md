@@ -1,6 +1,6 @@
 # thorzambo
 
-work in progress
+work in progress. self teaching.
 
 <div align="center">
 <link rel="stylesheet" href="styles/style.css">
