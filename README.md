@@ -47,12 +47,14 @@ work in progress
 
 ## Languages and tools used
 
-![](https://skillicons.dev/icons?i=python,java,c,html,css,discord,mongodb,vscode&theme=dark)
+![](https://skillicons.dev/icons?i=python,java,c,html,css,discord,mongodb&theme=dark)
+
+![](https://skillicons.dev/icons?i=mysql,vscode,bash,git,linux,&theme=dark)
 
 
-## Languages and tools mastering
-![](https://skillicons.dev/icons?i=html,css,js,nodejs,react,flutter,java&theme=dark)  
-![](https://skillicons.dev/icons?i=androidstudio,py&theme=dark)<img src="https://user-images.githubusercontent.com/91475935/168442353-995d91ee-cc1c-4b99-9a02-5057721a2bd2.png" height="48px" />![](https://skillicons.dev/icons?i=pytorch,mysql,bash,vscode&theme=dark)
+## Languages and tools on the To Do List
+![](https://skillicons.dev/icons?i=mysql,go,js,nodejs,react,cs,cpp&theme=dark)
+
 
 ## My Github statistics
 
