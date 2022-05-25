@@ -93,7 +93,6 @@ public class Me {
         while (result == "Succeed") {
             return result;
         }
-        // this.scope = "Succeeded"; is not a variable
         return "Fail";
     }
 
