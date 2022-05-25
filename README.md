@@ -71,4 +71,6 @@ work in progress. self teaching.
 
 [![thorzambo's GitHub stats](https://github-readme-stats.vercel.app/api?username=thorzambo&count_private=true&show_icons=true&theme=dark)](https://github.com/thorzambo/thorzambo)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=thorzambo&theme=dark&langs_count=8)](https://github.com/thorzambo/thorzambo)
+
 </div>
