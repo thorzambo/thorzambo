@@ -16,21 +16,13 @@
 🧩 Discovered my real passion for coding after tasting almost anything.<br/>
 🪙 Currenlty Focussing on Blockchain.<br/>
 
-
-<a href="https://www.reddit.com/user/Maksyme">
-    <img src="https://user-images.githubusercontent.com/91475935/168445301-dedc1330-1efd-4778-a758-3a76cf4c846e.svg" height="40px" />
-</a>
-
-<a href="https://www.youtube.com/channel/UCoqpR1OLbswIyQVatKBoGxA">
-    <img src="https://user-images.githubusercontent.com/91475935/168445309-916e8da4-4995-4e2b-9961-d5eb62b64179.svg" height="40px" />
-</a>
   
-<a href="https://t.me/maximedrn">
+<a href="https://t.me/thorzambo">
     <img src="https://user-images.githubusercontent.com/91475935/168445311-109ba4e0-2ef4-4cd7-9ac4-7ed3af534e91.svg" height="40px" />
 </a>
   
-<a href="mailto:maxime_drean@yahoo.com">
-    <img src="https://user-images.githubusercontent.com/91475935/168445313-09bef9d8-6a39-4bec-8eb0-762a65559894.svg" height="40px" />
+<a href="https://twitter.com/thor_zambo">
+    <img src="img/twitter.svg" height="40px" />
 </a>
     
 <a href="https://fr.fiverr.com/maximedrn">
