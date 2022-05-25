@@ -22,7 +22,12 @@
 </a>
   
 <a href="https://twitter.com/thor_zambo">
-    <img src="img/twitter.svg" height="40px" -webkit-filter: invert(.75); filter: invert(.75);/>
+    <img src="img/twitter.svg" height="40px" 
+    img {
+        -webkit-filter: invert(1);
+        filter: invert(1);
+   }
+   />
 </a>
     
 <a href="https://fr.fiverr.com/maximedrn">
