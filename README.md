@@ -11,7 +11,7 @@ work in progress.
 
 <!-- <img align="right" width="35%" src="https://media.giphy.com/media/fkZukR450RQ1qnGaq9/giphy.gif" /> -->
 
-## **Soon Developer - CH - IT**
+## **Soon Developer - CH - IT - ♌'97**
 
 <img src="https://raw.githubusercontent.com/Codelessly/FlutterLoadingGIFs/master/packages/cupertino_activity_indicator.gif" width="40px">
 
