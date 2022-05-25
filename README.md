@@ -41,8 +41,6 @@ work in progress
 
 ## Human Languages
 
-<br/>
-
 <img src="https://cdn1.iconfinder.com/data/icons/european-country-flags/83/italy-512.png" height="40px">
 <img src="https://cdn1.iconfinder.com/data/icons/flags-of-the-world-2/128/england-circle-128.png" height="40px">
 <img src="https://cdn1.iconfinder.com/data/icons/european-country-flags/83/germany-512.png" height="40px">
