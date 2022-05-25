@@ -1,7 +1,16 @@
 # thorzambo
  description
 
+ 
+
 <div align="center">
+
+<style>
+.invert {
+  -webkit-filter: invert(1);
+   filter: invert(1);
+}
+</style>
 
 # I'm Leo <br/>{<br/> aka ThorZambo; <br/>}
 <img src="https://imgur.com/KhLCNlZ.png" height="150px" />
@@ -22,7 +31,7 @@
 </a>
   
 <a href="https://twitter.com/thor_zambo">
-    <img src="img/twitter.svg" height="40px" fill="white" />
+    <img src="img/twitter.svg" height="40px" class="invert"/> />
 </a>
     
 <a href="https://fr.fiverr.com/maximedrn">
