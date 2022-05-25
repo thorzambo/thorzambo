@@ -22,7 +22,7 @@
 
   
 <a href="https://t.me/thorzambo">
-    <img src="https://user-images.githubusercontent.com/91475935/168445311-109ba4e0-2ef4-4cd7-9ac4-7ed3af534e91.svg" height="40px" style="filter: invert(1);">
+    <img src="https://user-images.githubusercontent.com/91475935/168445311-109ba4e0-2ef4-4cd7-9ac4-7ed3af534e91.svg" height="40px" filter: invert(1);>
 </a>
   
 <a href="https://twitter.com/thor_zambo">
