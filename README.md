@@ -34,7 +34,9 @@ work in progress. self teaching.
 <a href="https://github.com/thorzambo">
     <img src="https://simpleicons.org/icons/github.svg" height="40px" style="filter: invert(1);">
 </a>
-<a href="https://www.linkedin.com/in/leonardo-zambaiti">
+
+<!--<a href="https://www.linkedin.com/in/leonardo-zambaiti"> -->
+<a href="https://www.lightyear.fm/">
     <img src="https://simpleicons.org/icons/linkedin.svg" height="40px" style="filter: invert(1);">
 </a>
 
