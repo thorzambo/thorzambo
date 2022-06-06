@@ -13,7 +13,7 @@ work in progress.
     
 ## **Soon Developer - CH - IT - ♌'97**
 
-<img src="https://raw.githubusercontent.com/Codelessly/FlutterLoadingGIFs/master/packages/cupertino_activity_indicator.gif" width="2px">
+<img src="https://raw.githubusercontent.com/Codelessly/FlutterLoadingGIFs/master/packages/cupertino_activity_indicator.gif" width="0.2px">
 
 <br/>
 🎓 Currently Studying Economics, ending Bachelor's in the management stream. Why coding?<br/>
