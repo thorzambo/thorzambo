@@ -72,37 +72,3 @@ work in progress.
 
 </div>
 
-```java
-public class Me {
-    
-    final String result = "Succeed";
-    final String passion = "Coding";
-    final String motivation = "Ambition";
-
-    Me(String result, String passion, String motivation) {
-        /**
-         * Does not metter how long it takes 
-         * (even by writing it on Java)
-         */
-    }
-
-    public String setScope(String result) {
-        while (result == "Succeed") {
-            return result;
-        }
-        return "Fail";
-    }
-
-    public static void main(String[] args) {
-
-        System.out.print("Not even the chance to choose. ");
-        
-        Me me = new Me("I don't even care about this field.", 
-                         "I'm so fully committed,", 
-                            "the Future does not scare me");
-        
-        System.out.println(me.passion + " is my Passion.");
-        System.out.print(me.motivation + " is the reason why I can anything BUT " + me.setScope(me.motivation) + ".");
-    }
-}
-```
