@@ -15,7 +15,7 @@ work in progress.
 
 <br/>
 🎓 Bachelor in Economics, Management. Why coding?<br/>
-🤖 My main interests are into automation, AI, Solving Problems Experienced Entrepeneurs are not able to think about.
+🤖 My main interests are into automation, AI, Solving Problems Experienced Entrepeneurs are not able to think about.<br/>
 🎯 Due to my main interest, the chain connects to frontends, backends, software developing, any kind of smart solution and anything related.<br/>
 🧩 Discovered my real passion for coding after tasting almost anything.<br/>
 🪙 Currenlty also fascinated by Blockchain Technology.<br/>
