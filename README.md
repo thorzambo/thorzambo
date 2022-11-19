@@ -14,10 +14,11 @@ work in progress.
 ## **Soon Developer - CH - IT - ♌'97**
 
 <br/>
-🎓 Currently Studying Economics, ending Bachelor's in the management stream. Why coding?<br/>
-🎯 My main interests are into automation. Cause of that, the chain connects to frontends, backends, and anything related.<br/>
+🎓 Bachelor in Economics, Management. Why coding?<br/>
+🤖 My main interests are into automation, AI, Solving Problems Experienced Entrepeneurs are not able to think about.
+🎯 Due to my main interest, the chain connects to frontends, backends, software developing, any kind of smart solution and anything related.<br/>
 🧩 Discovered my real passion for coding after tasting almost anything.<br/>
-🪙 Currenlty fascinated by Blockchain.<br/>
+🪙 Currenlty also fascinated by Blockchain Technology.<br/>
 <br/>
 
 <a href="https://t.me/thorzambo">
