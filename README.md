@@ -11,7 +11,9 @@ work in progress.
 
 ##
     
-## **Soon Developer - CH - IT - ♌'97**
+## **Soon Developer - CH - IT**
+
+<a href="https://app.daily.dev/thorzambo"><img src="https://api.daily.dev/devcards/a0ec92b4c85c4688835f30cfca1a65b7.png?r=omc" width="400" alt="Leonardo Zambaiti's Dev Card"/></a>
 
 <br/>
 🎓 Bachelor in Economics, Management. Why coding?<br/>
