@@ -6,11 +6,6 @@ work in progress.
 <link rel="stylesheet" href="styles/style.css">
 
 # **Hi! I'm Leo** <br/> { aka ThorZambo }
-
-<img src="https://imgur.com/KhLCNlZ.png" height="150px" />
-
-##
-    
 ## **Soon Developer - CH - IT**
 
 <a href="https://app.daily.dev/thorzambo"><img src="https://api.daily.dev/devcards/a0ec92b4c85c4688835f30cfca1a65b7.png?r=omc" width="400" alt="Leonardo Zambaiti's Dev Card"/></a>
