@@ -59,7 +59,6 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/thorzambo/thorzambo/main/assets/wave.svg" width="100%" height="50">
 
 <a href="mailto:info@leonardozambaiti.me">
   <img src="https://img.shields.io/badge/Contact-Me-%230366D6?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
