@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
- _   _                                   _           
-| |_| |__   ___  _ __ ______ _ _ __ ___ | |__   ___  
-| __| '_ \ / _ \| '__|_  / _` | '_ ` _ \| '_ \ / _ \ 
+ _   _                                   _
+| |_| |__   ___  _ __ ______ _ _ __ ___ | |__   ___
+| __| '_ \ / _ \| '__|_  / _` | '_ ` _ \| '_ \ / _ \
 | |_| | | | (_) | |   / / (_| | | | | | | |_) | (_) |
- \__|_| |_|\___/|_|  /___\__,_|_| |_| |_|_.__/ \___/ 
-                                                     
+ \__|_| |_|\___/|_|  /___\__,_|_| |_| |_|_.__/ \___/
+
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=500&color=0366D6&center=true&vCenter=true&random=false&width=435&lines=Full-stack+Developer;Economics+Background;Process+Optimization" alt="Typing SVG" />
@@ -20,17 +20,21 @@
 
 <div width="80%">
 
-```
+```ascii
 ┌───────────────────────────────────────────────┐
 │                                               │
-│  Full-stack developer with unique background  │
-│  in economics and business digitalization.    │
+│  🎓 Economics & Management Graduate           │
+│  🤖 Passionate about AI & Automation          │
+│  🎯 Full-stack Developer & Problem Solver     │
+│  🧩 Found true calling in coding              │
+│  🪙 Exploring Blockchain Technology           │
 │                                               │
-│  Passionate about blending technical          │
-│  expertise with economic analysis to build    │
-│  scalable solutions and optimize processes.   │
+│  Building bridges between business needs      │
+│  and technical solutions through innovative   │
+│  approaches and process optimization.         │
 │                                               │
 └───────────────────────────────────────────────┘
+
 ```
 
 </div>
