@@ -37,7 +37,7 @@
 
 <br>
 
-<h2>▪️ Tech Stack ▪️</h2>
+<h2>▪️ Worked With ▪️</h2>
 
 <img src="https://skillicons.dev/icons?i=react,vue,nextjs,typescript,javascript,python,nodejs,tailwind,mongodb,postgres,mysql,figma,vite,selenium,pytorch,azure" alt="Tech Stack" />
 
