@@ -39,7 +39,7 @@
 
 <h2>▪️ Tech Stack ▪️</h2>
 
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,typescript,javascript,python,nodejs,tailwind,mongodb,postgres,mysql,figma,vitejs" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,typescript,javascript,python,nodejs,tailwind,mongodb,postgres,mysql,figma,vite" alt="Tech Stack" />
 
 <br>
 
