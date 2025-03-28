@@ -1,72 +1,70 @@
-# thorzambo
-
-work in progress.
-
 <div align="center">
-<link rel="stylesheet" href="styles/style.css">
 
-# **Hi! I'm Leo** <br/> { aka ThorZambo }
-## **Soon Developer - CH - IT**
+# Leonardo Zambaiti { ThorZambo }
 
-<a href="https://app.daily.dev/thorzambo"><img src="https://api.daily.dev/devcards/a0ec92b4c85c4688835f30cfca1a65b7.png?r=omc" width="400" alt="Leonardo Zambaiti's Dev Card"/></a>
+### Self Taugh (as for now 2025) Full-Stack Developer | Economics Background | Process Optimization
 
-<br/>
-🎓 Bachelor in Economics, Management. Why coding?<br/>
-🤖 My main interests are into automation, AI, Solving Problems Experienced Entrepeneurs are not able to think about.<br/>
-🎯 Due to my main interest, the chain connects to frontends, backends, software developing, any kind of smart solution and anything related.<br/>
-🧩 Discovered my real passion for coding after tasting almost anything.<br/>
-🪙 Currenlty also fascinated by Blockchain Technology.<br/>
-<br/>
-
-<a href="https://t.me/thorzambo">
-    <img src="https://simpleicons.org/icons/telegram.svg" height="40px" style="filter: invert(1);">
-</a>
-<a href="https://twitter.com/thor_zambo">
-    <img src="https://simpleicons.org/icons/twitter.svg" alt="" width="40" height="40" style="filter: invert(1);">
-</a>
-<a href="https://discordapp.com/users/365925418471129089">
-    <img src="https://simpleicons.org/icons/discord.svg" height="40px" style="filter: invert(1);">
-</a>
-<a href="https://github.com/thorzambo">
-    <img src="https://simpleicons.org/icons/github.svg" height="40px" style="filter: invert(1);">
-</a>
-
-<!--<a href="https://www.linkedin.com/in/leonardo-zambaiti"> -->
-<a href="https://www.lightyear.fm/">
-    <img src="https://simpleicons.org/icons/linkedin.svg" height="40px" style="filter: invert(1);">
-</a>
-
-## 
-    
-## Human Languages
-
-<img src="https://cdn1.iconfinder.com/data/icons/european-country-flags/83/italy-512.png" height="40px">
-<img src="https://cdn1.iconfinder.com/data/icons/flags-of-the-world-2/128/england-circle-128.png" height="40px">
-<img src="https://cdn1.iconfinder.com/data/icons/european-country-flags/83/germany-512.png" height="40px">
-
-##
-    
-## Languages and tools used
-
-![](https://skillicons.dev/icons?i=python,java,c,html,css,discord,mongodb&theme=dark)
-
-![](https://skillicons.dev/icons?i=bots,vscode,bash,git,linux,latex,nginx&theme=dark)
-
-##
-    
-## Languages and tools working on & To Do List
-
-![](https://skillicons.dev/icons?i=mysql,go,js,nodejs,react,cs,cpp&theme=dark)
-
-![](https://skillicons.dev/icons?i=docker,flask,django,ai,solidity,swift,ts&theme=dark)
-
-##
-    
-## My Github statistics
-
-<p></p>
+<img src="https://github-readme-stats.vercel.app/api?username=thorzambo&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thorzambo&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="49%" />
 
 [![thorzambo's GitHub stats](https://github-readme-stats.vercel.app/api?username=thorzambo&count_private=true&show_icons=true&theme=dark)](https://github.com/thorzambo/thorzambo)
 
 </div>
 
+## About Me 
+
+🔄 Transformed from Economics & Business to Tech & Development  
+🔍 Found my programming passion through automation & blockchain exploration  
+🏗️ Leading digital transformation in traditional industries  
+🧠 Blending economic analysis with technical solutions  
+
+## Tech Stack
+
+<div align="center">
+
+**Frontend & Design**  
+![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**Backend & Data**  
+![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/-DB2/AS400-052FAD?style=flat-square&logo=ibm&logoColor=white)
+
+**Business & Emerging Tech**  
+![](https://img.shields.io/badge/-ERP_Systems-0078D4?style=flat-square&logo=sap&logoColor=white)
+![](https://img.shields.io/badge/-IoT-01A6F0?style=flat-square&logo=arduino&logoColor=white)
+![](https://img.shields.io/badge/-Blockchain-121D33?style=flat-square&logo=bitcoin&logoColor=white)
+![](https://img.shields.io/badge/-Automation-FF6C37?style=flat-square&logo=zapier&logoColor=white)
+
+</div>
+
+## Current Focus
+
+🔹 Architecting scalable enterprise solutions  
+🔹 Modernizing traditional businesses through technology  
+🔹 Building IoT integrations for industrial applications  
+🔹 Researching blockchain data analytics applications  
+
+## Connect With Me
+
+<div align="center">
+<a href="https://github.com/thorzambo"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/leonardozambaiti"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://twitter.com/leozamba"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="mailto:info@leonardozambaiti.me"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
+
+## Languages
+
+<div align="center">
+<img src="https://img.shields.io/badge/-Italian_(Native)-008C45?style=flat-square&logo=italian&logoColor=white" />
+<img src="https://img.shields.io/badge/-English_(Advanced)-012169?style=flat-square&logo=english&logoColor=white" />
+<img src="https://img.shields.io/badge/-German_(Advanced)-FFCC00?style=flat-square&logo=german&logoColor=black" />
+</div>
