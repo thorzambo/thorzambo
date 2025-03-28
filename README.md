@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
- _   _                                   _
-| |_| |__   ___  _ __ ______ _ _ __ ___ | |__   ___
-| __| '_ \ / _ \| '__|_  / _` | '_ ` _ \| '_ \ / _ \
-| |_| | | | (_) | |   / / (_| | | | | | | |_) | (_) |
- \__|_| |_|\___/|_|  /___\__,_|_| |_| |_|_.__/ \___/
-
+   __  __                                     __        
+  / /_/ /_  ____  _________  ____ _____ ___  / /_  ____ 
+ / __/ __ \/ __ \/ ___/_  / / __ `/ __ `__ \/ __ \/ __ \
+/ /_/ / / / /_/ / /    / /_/ /_/ / / / / / / /_/ / /_/ /
+\__/_/ /_/\____/_/    /___/\__,_/_/ /_/ /_/_.___/\____/ 
+                                                        
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2222&pause=666&color=30BEBA&center=true&vCenter=true&random=false&width=435&lines=Full-stack+Developer;Economics+Background;Process+Optimization" alt="Typing SVG" />
