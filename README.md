@@ -37,11 +37,9 @@
 
 <br>
 
-<h2>▪️ Worked With ▪️</h2>
+## ▪️ Worked With ▪️
 
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,typescript,javascript,python,nodejs,tailwind,mongodb,postgres,mysql,figma,vite,selenium,pytorch,azure,docker,postman,redis,github,nginx,squid,wordpress,ubuntu,latex,notion",express alt="Tech Stack" />
-
-<br>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,vue,nextjs,nodejs,express,tailwind,vite,mongodb,postgres,mysql,redis,docker,azure,github,postman,selenium,nginx,squid,ubuntu,figma,wordpress,latex,notion,pytorch" alt="Tech Stack" /><br>
 
 <h2>▪️ Current Focus ▪️</h2>
 
@@ -58,7 +56,6 @@
 </div>
 
 <br>
-
 
 <a href="mailto:info@leonardozambaiti.me">
   <img src="https://img.shields.io/badge/Contact-Me-%230366D6?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
