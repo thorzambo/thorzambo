@@ -9,7 +9,7 @@
 
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=500&color=0366D6&center=true&vCenter=true&random=false&width=435&lines=Full-stack+Developer;Economics+Background;Process+Optimization" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2222&pause=666&color=30BEBA&center=true&vCenter=true&random=false&width=435&lines=Full-stack+Developer;Economics+Background;Process+Optimization" alt="Typing SVG" />
 
 <br>
 
