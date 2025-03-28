@@ -39,7 +39,7 @@
 
 ## ▪️ Worked With ▪️
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,vue,nextjs,nodejs,express,tailwind,vite,mongodb,postgres,mysql,redis,docker,azure,github,postman,selenium,nginx,squid,ubuntu,figma,wordpress,latex,notion,pytorch" alt="Tech Stack" /><br>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,vue,nextjs,nodejs,express,tailwind,vite,mongodb,postgres,mysql,redis,docker,azure,github,postman,selenium,ubuntu,figma,wordpress,latex,notion" alt="Tech Stack" /><br>
 
 <h2>▪️ Current Focus ▪️</h2>
 
