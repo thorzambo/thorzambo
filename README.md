@@ -4,19 +4,14 @@
 
 ### Self Taugh (as for now 2025) Full-Stack Developer | Economics Background | Process Optimization
 
-<img src="https://github-readme-stats.vercel.app/api?username=thorzambo&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thorzambo&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="49%" />
-
-[![thorzambo's GitHub stats](https://github-readme-stats.vercel.app/api?username=thorzambo&count_private=true&show_icons=true&theme=dark)](https://github.com/thorzambo/thorzambo)
-
 </div>
 
-## About Me 
+## About Me
 
 🔄 Transformed from Economics & Business to Tech & Development  
 🔍 Found my programming passion through automation & blockchain exploration  
 🏗️ Leading digital transformation in traditional industries  
-🧠 Blending economic analysis with technical solutions  
+🧠 Blending economic analysis with technical solutions
 
 ## Tech Stack
 
@@ -50,7 +45,7 @@
 🔹 Architecting scalable enterprise solutions  
 🔹 Modernizing traditional businesses through technology  
 🔹 Building IoT integrations for industrial applications  
-🔹 Researching blockchain data analytics applications  
+🔹 Researching blockchain data analytics applications
 
 ## Connect With Me
 
