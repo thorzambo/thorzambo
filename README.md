@@ -39,7 +39,7 @@
 
 <h2>▪️ Worked With ▪️</h2>
 
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,typescript,javascript,python,nodejs,tailwind,mongodb,postgres,mysql,figma,vite,selenium,pytorch,azure,docker,postman,redis,ms365" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,typescript,javascript,python,nodejs,tailwind,mongodb,postgres,mysql,figma,vite,selenium,pytorch,azure,docker,postman,redis,365" alt="Tech Stack" />
 
 <br>
 
