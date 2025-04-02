@@ -41,6 +41,10 @@
 
 <br>
 
+![thorzambo's GitHub contributions](https://github.pumbas.net/api/contributions/thorzambo?days=60&borderRadius=32)
+
+<br>
+
 ## ▪️ Worked With ▪️
 
 <img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,vue,nextjs,nodejs,express,tailwind,vite,mongodb,postgres,mysql,redis,docker,azure,github,postman,selenium,ubuntu,figma,wordpress,latex,notion" alt="Tech Stack" /><br>
